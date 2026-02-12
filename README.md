@@ -58,3 +58,4 @@ Gaming Platforms: Real-time player communication in multiplayer games.
 E-learning Platforms: Providing direct student-teacher or peer chat features.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/c68c4b64-1005-4853-bf3d-4a04b48272e7)
